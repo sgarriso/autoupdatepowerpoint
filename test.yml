@@ -1,0 +1,34 @@
+title: Holiday Week
+date: 12/23 - 12/27
+event:
+    day1:
+      name: Monday
+      title: News
+      time:  2 PM CT
+    day2:
+      name: Thursday
+      time: 8 PM CT
+      title: |
+        Retro Game
+        Chrono Trigger
+    day3:
+      name: Friday
+      time: 12 PM CT
+      title: |
+         Coding 
+         Advent of Code
+      
+  
+    day4:
+      name: Saturday
+      time: 9 PM CT
+      title: |  
+           New Game Night
+           Not Persona 6
+      
+    day5:
+      name: Sunday
+      time: 10 PM CT
+      title: | 
+         Coding 
+         Game training
